@@ -1,4 +1,4 @@
-### Hi there, I'm Elvis 👋
+### Hi there, I'm Elvis Rono 👋
 
 I'm Elvis Rono a Full Stack Web Developer. I Spend most of time coding outstanding projects.
 
