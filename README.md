@@ -1,10 +1,10 @@
 ### Hi there, I'm Elvis Rono 👋
 
-I'm Elvis Rono a Full Stack Web Developer. I Spend most of time coding outstanding projects.
+I'm Elvis Rono a Full Stack Web Developer. I Spend most of my time coding outstanding projects.
 
 :mailbox: Reach me out!
 
-- 🔭 I’m currently learning at moringa
+- 🔭 Studied at Moringa school.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for a job and able to cooperate.
 - 📫 How to reach me: elvisrono90@gmail.com.
